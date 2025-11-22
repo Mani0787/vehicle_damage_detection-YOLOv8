@@ -47,3 +47,9 @@ The dataset consists of images of damaged vehicles manually annotated using **Ro
 | Programming Language | Python |
 | Frameworks | OpenCV, NumPy, Torch |
 | Deployment Format | Notebook (.ipynb) / Exported Model |
+
+### Result:
+
+![Result](./result.png)
+
+> *Example showing bounding box annotation for `Bumper` damage.*
